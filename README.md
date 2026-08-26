@@ -17,7 +17,6 @@ For FedIT with GMFL.
 `dataset_name`  could be one of `["zwhe99/commonsense_170k", "vicgalle/alpaca-gpt4", "sst2", "mnli_matched", "qqp", "mrpc", "rte", "cola", "meta-math/MetaMathQA"]`
 
 
+attention:
 
-
-
-
+The seeds used in my paper are [42,123,456]. If you use seed 456, you will find the performance of all methods is severely degraded.
